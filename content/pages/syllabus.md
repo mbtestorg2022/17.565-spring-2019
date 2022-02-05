@@ -32,12 +32,57 @@ By the end of the course, you should be able to:
 Grading and Assignments
 -----------------------
 
-| ASSIGNMENTS  | PERCENTAGES |
-| --- | --- |
-| Readings' assignments (4) | 40% |
-| Class participation (including the staged Israeli-Arab-Palestinian peace conference) | 15%  |
-| Classroom presentation  | 15% (bonus) |
-| Final paper | 45% (﻿or 30% if the presentation was good﻿) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS 
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Readings' assignments (4)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation (including the staged Israeli-Arab-Palestinian peace conference)
+{{< tdclose >}}
+{{< tdopen >}}
+15% 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Classroom presentation 
+{{< tdclose >}}
+{{< tdopen >}}
+15% (bonus)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+45% (﻿or 30% if the presentation was good﻿)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance is mandatory. For more detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
