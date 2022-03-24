@@ -96,7 +96,7 @@ Shamir, Moshe. Excerpts from _With His Own Hands_. Translated from the Hebrew by
 
 _Recommended_
 
-Lijphart, Arend. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Constitutional Design for Divided Societies.” (PDF)](https://muse.jhu.edu/article/54673/pdf) _Journal of Democracy_ 15, no. 2 (2004), 96–109.
+Lijphart, Arend. [“Constitutional Design for Divided Societies.” (PDF)](https://muse.jhu.edu/article/54673/pdf) _Journal of Democracy_ 15, no. 2 (2004), 96–109.
 
 Oz, Amos. “The Trappist Monastery.” In _Where the Jackals Howl and Other Stories_. Translated from the Hebrew by Nicholas de Lange and Philip Simpson. Mariner Books, 2012. ISBN: 9780547747187. \[Preview with [Google Books](https://books.google.com/books?id=QYpemIXwHwkC&pg=PA87=onepage#v=onepage&q&f=false)\]
 
@@ -137,7 +137,7 @@ Rubinstein, Amnon. “No More Sabras.” Chapter 8 in _From Herzl to Rabin: the 
 
 _Recommended_
 
-Shohat, Ella. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Sephardim in Israel: Zionism from the Standpoint of Its Jewish Victims.” (PDF - 3MB)](https://palestinecollective.files.wordpress.com/2013/10/sephardim-in-israel_-zionism-from-the-standpoint-of-its-jewish-victims.pdf) _Social Text_, no. 19/20 (1988): 1–35.
+Shohat, Ella. [“Sephardim in Israel: Zionism from the Standpoint of Its Jewish Victims.” (PDF - 3MB)](https://palestinecollective.files.wordpress.com/2013/10/sephardim-in-israel_-zionism-from-the-standpoint-of-its-jewish-victims.pdf) _Social Text_, no. 19/20 (1988): 1–35.
 
 “[Israel in Brief: System of Government](https://mfa.gov.il/MFA/AboutIsrael/Pages/ISRAEL%20IN%20BRIEF.aspx).” Israel Ministry of Foreign Affairs.
 
@@ -267,9 +267,9 @@ _Recommended_
 
 “[Israeli settlement](https://en.wikipedia.org/wiki/Israeli_settlement).” Wikipedia.
 
-Galchinsky, Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Jewish Settlements in the West Bank: International Law and Israeli Jurisprudence.” (PDF)](http://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1002&context=english_facpub) _Israel Studies_ 9, no. 3 (2004): 115–36.
+Galchinsky, Michael. [“The Jewish Settlements in the West Bank: International Law and Israeli Jurisprudence.” (PDF)](http://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1002&context=english_facpub) _Israel Studies_ 9, no. 3 (2004): 115–36.
 
-Ghanem, As’ad. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Palestinian Nationalism: An Overview.” (PDF)](https://muse.jhu.edu/article/502489/pdf) _Israel Studies_ 18, no. 2 (2013): 11–29.
+Ghanem, As’ad. [“Palestinian Nationalism: An Overview.” (PDF)](https://muse.jhu.edu/article/502489/pdf) _Israel Studies_ 18, no. 2 (2013): 11–29.
 
 
 {{< tdclose >}}
@@ -355,11 +355,11 @@ The Palestinian-Arab minority in Israel—history, identity 
 {{< tdopen >}}
 
 
-Rekhess, Elie. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Arab Minority in Israel: Reconsidering the ‘1948 Paradigm.’” (PDF)](https://muse.jhu.edu/article/543636/pdf) _Israel Studies_ 19, no. 2 (2014): 187–217.
+Rekhess, Elie. [“The Arab Minority in Israel: Reconsidering the ‘1948 Paradigm.’” (PDF)](https://muse.jhu.edu/article/543636/pdf) _Israel Studies_ 19, no. 2 (2014): 187–217.
 
 Grossman, David. Chapter 5 in _Sleeping on a Wire: Conversations with Palestinians in Israel_. Translated by Haim Watzman. Picador, 2003. ISBN: 9780312420970. \[Preview with [Google Books](https://books.google.com/books?id=Zz_bVEtuk_8C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Future Vision of the Palestinian Arabs in Israel.” (PDF)](https://www.adalah.org/uploads/oldfiles/newsletter/eng/dec06/tasawor-mostaqbali.pdf) The National Committee for the Heads of the Arab Local Authorities in Israel. 2006.
+[“The Future Vision of the Palestinian Arabs in Israel.” (PDF)](https://www.adalah.org/uploads/oldfiles/newsletter/eng/dec06/tasawor-mostaqbali.pdf) The National Committee for the Heads of the Arab Local Authorities in Israel. 2006.
 
 _Recommended_
 
